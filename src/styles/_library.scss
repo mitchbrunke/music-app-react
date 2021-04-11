@@ -8,9 +8,9 @@
   height: 100%;
   overflow: scroll;
   background: white;
-  transform: translateX(-100%);
-  transition: all 0.5s ease;
-  opacity: 0;
+  // transform: translateX(-100%);
+  // transition: all 0.5s ease;
+  // opacity: 0;
 
   h2 {
     padding: 2rem;
@@ -28,7 +28,7 @@
     width: 30%;
   }
   &:hover {
-    background: rgb(235, 235, 235);
+    background: rgb(244, 174, 250);
   }
 }
 .song-description {
